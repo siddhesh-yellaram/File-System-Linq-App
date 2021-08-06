@@ -1,0 +1,6 @@
+D:\test\.NET\FileSystemLinqApp\bin\Debug\FileSystemLinqApp.exe.config
+D:\test\.NET\FileSystemLinqApp\bin\Debug\FileSystemLinqApp.exe
+D:\test\.NET\FileSystemLinqApp\bin\Debug\FileSystemLinqApp.pdb
+D:\test\.NET\FileSystemLinqApp\obj\Debug\FileSystemLinqApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\FileSystemLinqApp\obj\Debug\FileSystemLinqApp.exe
+D:\test\.NET\FileSystemLinqApp\obj\Debug\FileSystemLinqApp.pdb
